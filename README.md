@@ -4,8 +4,8 @@ This repository contains our solutions for **Exercise 2** of the course on Unimo
 
 ## 📂 Contents
 - `E2.pdf` – Original exercise sheet with task description  
-- `E2_GROUP_11.pdf` – Our written group report (Group 11)  
-- `Mika_E2_Coding_Kit.ipynb` – Google Colab notebook with code and experiments  
+- `E2_11.pdf` – Our written group report (Group 11)  
+- `E2_11.ipynb` – Google Colab notebook with code and experiments  
 
 ## 👥 Authors
 This work was completed as a **group assignment** by:  
